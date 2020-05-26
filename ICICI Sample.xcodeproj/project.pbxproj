@@ -13,6 +13,7 @@
 		F0DEB9E1247CE46F007DFFCA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0DEB9DF247CE46F007DFFCA /* Main.storyboard */; };
 		F0DEB9E3247CE470007DFFCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0DEB9E2247CE470007DFFCA /* Assets.xcassets */; };
 		F0DEB9E6247CE470007DFFCA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0DEB9E4247CE470007DFFCA /* LaunchScreen.storyboard */; };
+		F0DEB9EE247CEA2A007DFFCA /* AccountsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DEB9ED247CEA2A007DFFCA /* AccountsScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F0DEB9E2247CE470007DFFCA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0DEB9E5247CE470007DFFCA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0DEB9E7247CE470007DFFCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0DEB9ED247CEA2A007DFFCA /* AccountsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountsScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F0DEB9E2247CE470007DFFCA /* Assets.xcassets */,
 				F0DEB9E4247CE470007DFFCA /* LaunchScreen.storyboard */,
 				F0DEB9E7247CE470007DFFCA /* Info.plist */,
+				F0DEB9ED247CEA2A007DFFCA /* AccountsScreen.swift */,
 			);
 			path = "ICICI Sample";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				F0DEB9DE247CE46E007DFFCA /* ViewController.swift in Sources */,
 				F0DEB9DA247CE46E007DFFCA /* AppDelegate.swift in Sources */,
 				F0DEB9DC247CE46E007DFFCA /* SceneDelegate.swift in Sources */,
+				F0DEB9EE247CEA2A007DFFCA /* AccountsScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
